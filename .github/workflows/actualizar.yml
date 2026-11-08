@@ -1,0 +1,41 @@
+name: Actualizar Ciriaco M3U
+
+on:
+  schedule:
+    - cron: '17 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-ciriaco
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Instalar Playwright
+        run: |
+          python -m pip install playwright==1.56.0
+          python -m playwright install --with-deps chromium
+      - name: Extraer y comparar enlaces
+        run: python actualizar.py
+      - name: Publicar únicamente si cambia
+        shell: bash
+        run: |
+          if ! git diff --quiet -- canales.m3u; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add canales.m3u
+            git commit -m 'Actualizar enlaces AceStream de Ciriaco'
+            git push
+          else
+            echo 'No hay cambios en la lista.'
+          fi
