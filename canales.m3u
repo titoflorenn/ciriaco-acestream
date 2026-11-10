@@ -45,6 +45,10 @@ acestream://3d4c3b9d44af0658a9ec6b29c92033f732b65422
 acestream://72626ce6e2f0dc8f0a71ac1d9b960d3cc166c86e
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ LaLiga 2 * --> Elcano
 acestream://4c8107cd9165bafd80ad21a71e8285a9a4c990df
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ LaLiga 2 1080p ** --> Elcano
+acestream://e26e32779e026f1c51353b8fca92860765cf8e3c
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ LaLiga 2 720p ** --> Elcano
+acestream://93e21c01e9a7bc7418ac04f220ee87c3c2fddd2d
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ LaLiga 720p * --> Elcano
 acestream://1c00e6a5404f84e9bd22aa9d8f09e96ffa4ab319
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ LaLiga 720p * --> Elcano
