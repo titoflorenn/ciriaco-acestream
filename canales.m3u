@@ -3,8 +3,6 @@
 acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
 #EXTINF:-1 group-title="Ciriaco AceStream",DAZN 1 1080p ** --> Elcano
 acestream://43572587b8e9fd112d43b66a36f8ab2c591d87d1
-#EXTINF:-1 group-title="Ciriaco AceStream",DAZN 1 720p ** --> Elcano
-acestream://49545d05f95846e93fd8f08da320be866995c550
 #EXTINF:-1 group-title="Ciriaco AceStream",DAZN 2 1080p * --> Elcano
 acestream://feea1c77fb2692e4de0a4465628b367eb4c8aec0
 #EXTINF:-1 group-title="Ciriaco AceStream",DAZN 2 1080p ** --> Elcano
@@ -131,6 +129,10 @@ acestream://69f76f6516620d91612e7509077b5ac3bb4d3c0b
 acestream://9e5da99bac88a4a3ed200d3bdf260b683145ca57
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Vamos 1080p ** --> Elcano
 acestream://1b0374aae74e9792034b21298d6b3dfa25bc60c1
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ VAMOS 2 1080p * --> Elcano
+acestream://8fd3ab88c95744e502aca1cdb369e07941914344
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ VAMOS 2 720p * --> Elcano
+acestream://eadc069bbd45d77cb33ca3bac6f6d86281597122
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ VAMOS 3 1080p * --> Elcano
 acestream://8d752ceceaa26b063d8edfa9c70352ada62c424d
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ VAMOS 3 1080p ** --> Elcano
@@ -161,6 +163,8 @@ acestream://7108ad98920a87cc7dc857748e69a5d725890b98
 acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
 #EXTINF:-1 group-title="Ciriaco AceStream",MOVISTAR PLUS 1080p * --> Elcano
 acestream://a2d33536b7d55727c8f6bea010624d6478c3ba2d
+#EXTINF:-1 group-title="Ciriaco AceStream",MOVISTAR PLUS 1080p ** --> Elcano
+acestream://0b05fa66cfd62f9d4f686ff42f0c52ff3196a9fa
 #EXTINF:-1 group-title="Ciriaco AceStream",MOVISTAR PLUS 720p * --> Elcano
 acestream://d2b5299ed45cbaf35482bb0869b2c2f75fbed64a
 #EXTINF:-1 group-title="Ciriaco AceStream",Movistar+ --> NEW ERA III
