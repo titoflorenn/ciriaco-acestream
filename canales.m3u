@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Ciriaco AceStream",DAZN2 --> New Loop
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 group-title="Ciriaco AceStream",LALIGA HYPERMOTION --> NEW ERA VI
-acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
-#EXTINF:-1 group-title="Ciriaco AceStream",LaLiga TV Hypermotion 1080p * --> Elcano
-acestream://d6044509ec5c7c8670cf54accf2cc9b822f42807
-#EXTINF:-1 group-title="Ciriaco AceStream",LaLiga TV Hypermotion 1080p ** --> Elcano
-acestream://de00099a1fc928f292bb92d62a0841ac7104e31c
-#EXTINF:-1 group-title="Ciriaco AceStream",LaLiga TV Hypermotion 720p * --> Elcano
-acestream://e3cb35599c8908ae94163fdf1164784bd547b1b6
-#EXTINF:-1 group-title="Ciriaco AceStream",LaLiga TV Hypermotion 720p ** --> Elcano
-acestream://c1b4a8596b0b1ec04741aec78a61e9052da2ec57
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Deportes 2 1080p * --> Elcano
 acestream://fb4bb73e23b7b24625cc7932f2ff3f7343a43810
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Deportes 2 1080p ** --> Elcano
