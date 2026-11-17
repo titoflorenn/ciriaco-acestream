@@ -1,18 +1,58 @@
 #EXTM3U
+#EXTINF:-1 group-title="Ciriaco AceStream",DAZN Baloncesto 1080p ** --> Elcano
+acestream://535b353f94a275ca60ab176c0633ecbb561b41f2
+#EXTINF:-1 group-title="Ciriaco AceStream",DAZN Baloncesto 1080p ** --> Elcano
+acestream://e1e543b882178ea985f27285ec87c698d6553027
+#EXTINF:-1 group-title="Ciriaco AceStream",DAZN Baloncesto 2 1080p ** --> Elcano
+acestream://ac457cdad9e0b4333cd3a385ac54dab0dce6d881
+#EXTINF:-1 group-title="Ciriaco AceStream",DAZN Baloncesto 2 720p * --> Elcano
+acestream://99de2862eb671f858c7865c9cf5950e13e89eeba
+#EXTINF:-1 group-title="Ciriaco AceStream",DAZN Baloncesto 720p ** --> Elcano
+acestream://81726596472933c3dfc9b3cd31fef7d0716c8ba4
+#EXTINF:-1 group-title="Ciriaco AceStream",Esport3 1080p ** --> Elcano
+acestream://20a6f764b55a1cbe34f62d732561b4a09ff50829
+#EXTINF:-1 group-title="Ciriaco AceStream",Esport3 720p ** --> Elcano
+acestream://8392984997d6ce361bca121ca1631cdd04040ae7
 #EXTINF:-1 group-title="Ciriaco AceStream",Eurosport 1 --> NEW ERA III
 acestream://62a5750be4d2218b1064f83afaac4770fd92350d
 #EXTINF:-1 group-title="Ciriaco AceStream",Eurosport 1 --> SPORTV
 acestream://05004eac5955c789c41c4799cfedcf3b4468cb4a
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ Baloncesto 1080p * --> Elcano
+acestream://28360e214f0cae450e9aaa8753c5be455109188f
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ Baloncesto 1080p ** --> Elcano
+acestream://31f2a257cd226d80339342c449d76339b4a1e6fa
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ Baloncesto 2 1080p * --> Elcano
+acestream://dce8628942410de57606a6849ab6be46de3f9458
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ Baloncesto 2 1080p ** --> Elcano
+acestream://e3d6143ca8a9cd508653c9f9eeb305a9e2b46e5d
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ Baloncesto 3 1080p * --> Elcano
+acestream://54e1205da682d519fcc8ddeccff1626b8af86a6a
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ Baloncesto 3 1080p ** --> Elcano
+acestream://f645199c617b2f0894506d8d3ef8369212f602eb
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Deportes 2 1080p * --> Elcano
-acestream://fb4bb73e23b7b24625cc7932f2ff3f7343a43810
+acestream://a38ca9c4f4b488112daef66104df45a05a9fb9ad
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Deportes 2 1080p ** --> Elcano
-acestream://ac66efa6cf24464dcc7f94049775ae580d7ba569
+acestream://6b556144b907286ddc6dc071ecf7362b0fab5f78
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Deportes 2 720p * --> Elcano
-acestream://71e56f0315a20d87c3c472dcfbe4cc2c875db090
+acestream://f62f06bb905564bf718467658947e24c2b21735f
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Deportes 2 720p ** --> Elcano
-acestream://592c427008038847d6486daa7c3afd7a72f447da
+acestream://b9914c456b60655f6997e1e0b85cffb19975d888
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Vamos --> New Loop
 acestream://f35418bcdbdf47c2d88adef411e9ed15cb2ccc38
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ Vamos 1080p ** --> Elcano
+acestream://9b7fc5f95b281a9a3370f71a8fe5a375c4655abb
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ VAMOS 2 1080p * --> Elcano
+acestream://c04f1daf665ca4b6a8d1f6d552b2bffff1c839d3
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ VAMOS 2 1080p ** --> Elcano
+acestream://22ed339fb4f878ab562a434d847dd7849736794f
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ VAMOS 2 1080p ** --> Elcano
+acestream://bec179fcda0f5016821bcc97f34f407d86f128e6
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ VAMOS 2 720p * --> Elcano
+acestream://75898c06f71b867b147654912bb0db8a19d6086e
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ Vamos 720p * --> Elcano
+acestream://27197daae8ce31d03ad69c1ac189333ec608150b
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ Vamos 720p ** --> Elcano
+acestream://b20b467fae6af2983ee5163ebcb469eeca9146ee
 #EXTINF:-1 group-title="Ciriaco AceStream",M. Deportes 2 HD --> New Loop
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 group-title="Ciriaco AceStream",M. Golf 2 HD --> New Loop
@@ -20,17 +60,17 @@ acestream://1735ff3141fa3820090fad58dc548a1390accae9
 #EXTINF:-1 group-title="Ciriaco AceStream",M. Golf HD --> New Loop
 acestream://872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 group-title="Ciriaco AceStream",MOVISTAR PLUS 1080p * --> Elcano
-acestream://423d84a999fde31dd1cebad55a55ae7160664b21
+acestream://96cc6b02a0ce66ed3a01d9904e7ee8db0f2da5d7
 #EXTINF:-1 group-title="Ciriaco AceStream",MOVISTAR PLUS 1080p ** --> Elcano
-acestream://0b05fa66cfd62f9d4f686ff42f0c52ff3196a9fa
+acestream://68b53041272592f4fbf00bf38cd91e54a4e16abf
 #EXTINF:-1 group-title="Ciriaco AceStream",MOVISTAR PLUS 720p * --> Elcano
-acestream://44dea2aa000e29b059f9c42471204d70e7436403
+acestream://d2b5299ed45cbaf35482bb0869b2c2f75fbed64a
 #EXTINF:-1 group-title="Ciriaco AceStream",Movistar+ --> NEW ERA III
 acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
 #EXTINF:-1 group-title="Ciriaco AceStream",Teledeporte 1080p * --> Elcano
-acestream://81aead134bb63a51291d23e793fcddca981ee834
+acestream://1d9e4ec1c78ae31da88a5f8582eb95d29d329d8d
 #EXTINF:-1 group-title="Ciriaco AceStream",Teledeporte 720p ** --> Elcano
-acestream://c7d8405bdef3650b9bac58042c3708440ef286a8
+acestream://d889729516a30bb2ac9e0355a1fbda0d10281e9a
 #EXTINF:-1 group-title="Ciriaco AceStream",TELEDEPORTE Spain --> New Loop
 acestream://4048be88f84250719e864868e537612f389df48e
 #EXTINF:-1 group-title="Ciriaco AceStream",Vamos --> NEW ERA III
