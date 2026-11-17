@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Ciriaco AceStream",Eurosport 1 --> NEW ERA III
 acestream://62a5750be4d2218b1064f83afaac4770fd92350d
+#EXTINF:-1 group-title="Ciriaco AceStream",Eurosport 1 --> SPORTV
+acestream://05004eac5955c789c41c4799cfedcf3b4468cb4a
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Deportes 2 1080p * --> Elcano
 acestream://fb4bb73e23b7b24625cc7932f2ff3f7343a43810
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Deportes 2 1080p ** --> Elcano
@@ -9,8 +11,12 @@ acestream://ac66efa6cf24464dcc7f94049775ae580d7ba569
 acestream://71e56f0315a20d87c3c472dcfbe4cc2c875db090
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Deportes 2 720p ** --> Elcano
 acestream://592c427008038847d6486daa7c3afd7a72f447da
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ Vamos --> New Loop
+acestream://f35418bcdbdf47c2d88adef411e9ed15cb2ccc38
 #EXTINF:-1 group-title="Ciriaco AceStream",M. Deportes 2 HD --> New Loop
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1 group-title="Ciriaco AceStream",M. Golf 2 HD --> New Loop
+acestream://1735ff3141fa3820090fad58dc548a1390accae9
 #EXTINF:-1 group-title="Ciriaco AceStream",M. Golf HD --> New Loop
 acestream://872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 group-title="Ciriaco AceStream",MOVISTAR PLUS 1080p * --> Elcano
