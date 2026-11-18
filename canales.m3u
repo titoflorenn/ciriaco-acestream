@@ -5,8 +5,6 @@ acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
 acestream://55616eb11715c5ce83659f28e3aa191f95ff7cef
 #EXTINF:-1 group-title="Ciriaco AceStream",DAZN 2 720p ** --> Elcano
 acestream://9b02402621c83b8b68f1d83a7bbb1b972b4abe5e
-#EXTINF:-1 group-title="Ciriaco AceStream",DAZN Baloncesto 1080p * --> Elcano
-acestream://1020bfc5ec9a2c1b668cce2c9d04e1bc2ca9b944
 #EXTINF:-1 group-title="Ciriaco AceStream",DAZN Baloncesto 1080p ** --> Elcano
 acestream://535b353f94a275ca60ab176c0633ecbb561b41f2
 #EXTINF:-1 group-title="Ciriaco AceStream",DAZN Baloncesto 1080p ** --> Elcano
@@ -35,8 +33,6 @@ acestream://9b1fa0be70ab0bcc78182631d2bff80ade31e940
 acestream://9769aadd250b0701c0bcda94a407f9a2bcc9e207
 #EXTINF:-1 group-title="Ciriaco AceStream",DAZN F1 720p ** --> Elcano
 acestream://6f02acfff801293b7b64b377533dc8676294c479
-#EXTINF:-1 group-title="Ciriaco AceStream",DAZN F1 720p ** --> Elcano
-acestream://9dac80fe4cfbc87edd35cab65f91abd9fb971739
 #EXTINF:-1 group-title="Ciriaco AceStream",DAZN MOTO GP (SOLO EVENTOS) --> NEW ERA III
 acestream://30bfcdcc472367415184132bf9d8f46a0a4e8b32
 #EXTINF:-1 group-title="Ciriaco AceStream",DAZN MOTOGP --> NEW ERA VI
@@ -65,14 +61,14 @@ acestream://31f2a257cd226d80339342c449d76339b4a1e6fa
 acestream://dce8628942410de57606a6849ab6be46de3f9458
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Baloncesto 2 1080p ** --> Elcano
 acestream://d43d6e5e0a6c9ec24f85bbab92d5c8a2771a1572
-#EXTINF:-1 group-title="Ciriaco AceStream",M+ Baloncesto 3 1080p * --> Elcano
-acestream://54e1205da682d519fcc8ddeccff1626b8af86a6a
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Baloncesto 3 1080p ** --> Elcano
 acestream://6d493da11517de648f00646c3040d1c8fce91f4a
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Deportes 2 1080p * --> Elcano
 acestream://a38ca9c4f4b488112daef66104df45a05a9fb9ad
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Deportes 2 1080p ** --> Elcano
 acestream://6b556144b907286ddc6dc071ecf7362b0fab5f78
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ Golf 1080p * --> Elcano
+acestream://dd41423912d132c67cd7281cbf6b45cee13de385
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Golf 1080p ** --> Elcano
 acestream://710613f440cdf0c4f6521fef7120f06436cc41ea
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Golf 720p * --> Elcano
@@ -103,8 +99,6 @@ acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
 acestream://96cc6b02a0ce66ed3a01d9904e7ee8db0f2da5d7
 #EXTINF:-1 group-title="Ciriaco AceStream",MOVISTAR PLUS 1080p ** --> Elcano
 acestream://68b53041272592f4fbf00bf38cd91e54a4e16abf
-#EXTINF:-1 group-title="Ciriaco AceStream",MOVISTAR PLUS 720p * --> Elcano
-acestream://d2b5299ed45cbaf35482bb0869b2c2f75fbed64a
 #EXTINF:-1 group-title="Ciriaco AceStream",Movistar+ --> NEW ERA III
 acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
 #EXTINF:-1 group-title="Ciriaco AceStream",RFEF TV 1080p ** --> Elcano
