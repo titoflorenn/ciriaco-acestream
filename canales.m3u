@@ -23,14 +23,12 @@ acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19
 acestream://ee4646aae30d862e0d9d453998a344a60aaa7cde
 #EXTINF:-1 group-title="Ciriaco AceStream",DAZN F1 1080p * --> Elcano
 acestream://79587e4c7a6ae12905a6fc8b61147fc59aa38480
-#EXTINF:-1 group-title="Ciriaco AceStream",DAZN F1 1080p * --> Elcano
-acestream://9944d8bef913ec380e11bec0ea7d565f449604c6
 #EXTINF:-1 group-title="Ciriaco AceStream",DAZN F1 1080p ** --> Elcano
 acestream://70ebe42b14d792f74acf931da7d4eb649bb2df0e
 #EXTINF:-1 group-title="Ciriaco AceStream",DAZN F1 1080p ** --> Elcano
+acestream://8ddb70f5fe3c221d71803481368d4f0a2bbf3667
+#EXTINF:-1 group-title="Ciriaco AceStream",DAZN F1 1080p ** --> Elcano
 acestream://9b1fa0be70ab0bcc78182631d2bff80ade31e940
-#EXTINF:-1 group-title="Ciriaco AceStream",DAZN F1 720p * --> Elcano
-acestream://9769aadd250b0701c0bcda94a407f9a2bcc9e207
 #EXTINF:-1 group-title="Ciriaco AceStream",DAZN F1 720p ** --> Elcano
 acestream://6f02acfff801293b7b64b377533dc8676294c479
 #EXTINF:-1 group-title="Ciriaco AceStream",DAZN MOTO GP (SOLO EVENTOS) --> NEW ERA III
@@ -57,10 +55,12 @@ acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
 acestream://d9e468180fcd3dcd45141dc09f56ea21eb88912e
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Baloncesto 1080p ** --> Elcano
 acestream://31f2a257cd226d80339342c449d76339b4a1e6fa
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ Baloncesto 2 1080p * --> Elcano
+acestream://dce8628942410de57606a6849ab6be46de3f9458
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Baloncesto 2 1080p ** --> Elcano
 acestream://d43d6e5e0a6c9ec24f85bbab92d5c8a2771a1572
-#EXTINF:-1 group-title="Ciriaco AceStream",M+ Baloncesto 3 1080p ** --> Elcano
-acestream://6d493da11517de648f00646c3040d1c8fce91f4a
+#EXTINF:-1 group-title="Ciriaco AceStream",M+ Baloncesto 3 1080p * --> Elcano
+acestream://54e1205da682d519fcc8ddeccff1626b8af86a6a
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Deportes 2 1080p ** --> Elcano
 acestream://6b556144b907286ddc6dc071ecf7362b0fab5f78
 #EXTINF:-1 group-title="Ciriaco AceStream",M+ Golf 1080p * --> Elcano
