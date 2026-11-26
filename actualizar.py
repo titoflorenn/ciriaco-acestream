@@ -5,7 +5,7 @@ import re
 import sys
 from pathlib import Path
 
-from playwright.sync_api import sync_playwright
+from playwright.sync_api import Error as PlaywrightError, sync_playwright
 
 SOURCE = "https://ciriaco.netlify.app/"
 OUTPUT = Path(__file__).resolve().parent / "canales.m3u"
@@ -71,13 +71,27 @@ def previous_count(content):
     return len(re.findall(r"(?m)^acestream://[0-9a-f]{40}\s*$", content))
 
 def main():
-    entries = normalize(collect())
     old = OUTPUT.read_text(encoding="utf-8-sig") if OUTPUT.exists() else ""
     old_count = previous_count(old)
+    def keep_previous(reason):
+        if old.lstrip().startswith("#EXTM3U") and old_count >= MIN_CHANNELS:
+            print(f"Aviso: {reason}. Se conserva la lista anterior de {old_count} enlaces; se volverá a intentar en la próxima ejecución.")
+            return True
+        return False
+    try:
+        entries = normalize(collect())
+    except (PlaywrightError, OSError):
+        if keep_previous("no se ha podido consultar una nueva lista"):
+            return
+        raise
     print(f"Encontrados: {len(entries)} enlaces únicos. Lista anterior: {old_count}.")
     if len(entries) < MIN_CHANNELS:
+        if keep_previous(f"lectura incompleta ({len(entries)} enlaces)"):
+            return
         raise RuntimeError(f"Extracción incompleta ({len(entries)} enlaces); se conserva la lista anterior.")
     if old_count and len(entries) < old_count * 0.30:
+        if keep_previous("la lectura perdió más del 70 % de enlaces"):
+            return
         raise RuntimeError("La extracción perdió más del 70 % de enlaces; no se sobrescribe la lista.")
     updated = render(entries)
     if updated == old:
